@@ -10,7 +10,9 @@ Xiaomi.eu-based optimized ROM project for Redmi Note 11 Pro 5G.
 - Stability focused
 
 ## Device Support
-- Redmi Note 11 Pro 5G
+- Redmi Note 11 Pro 5G,
+- poco x4 pro 5g
+- redmi note 11 pro plus 5G
 
 ## Community
 Telegram Updates:
