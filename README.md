@@ -14,7 +14,6 @@ Xiaomi.eu-based optimized ROM project for Redmi Note 11 Pro 5G.
 
 ## Community
 Telegram Updates:
-https://t.me/NexoraOSUpdates
-
+https://t.me/NexoraOSProject
 Telegram Community:
 https://t.me/NexoraOSCommunity
